@@ -122,3 +122,11 @@ msgctxt "#32029"
 msgid "Credentials are not required with this version on the Opensubtitles addon"
 msgstr "Credentials are not required with this version on the Opensubtitles addon"
 
+msgctxt "#32030"
+msgid "Minimal Time (milliseconds) Subtitles On Screen"
+
+msgctxt "#32031"
+msgid "When this time is set, all subtitles are extended to stay on screen\nfor at least this time."
+
+msgctxt "#32032"
+msgid "However if a next subtitle occurs earlier this time is of course cut off.\nThis allows people that read slower to read the text."

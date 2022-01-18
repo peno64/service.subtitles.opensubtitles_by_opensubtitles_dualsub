@@ -6,6 +6,9 @@ See https://github.com/moham96/service.subtitles.opensubtitles_by_opensubtitles
 
 Changelog
 
+5.4.0
+- Allows to extend the time the subtitle(s) are shown on screen for slow readers.
+
 5.3.0
 - Possibility to choose two subtitles. One will be shown at the bottom, the other on top
 - Works both with Python 2 (kodi 17, 18) and Python 3 (kodi 19)
