@@ -6,6 +6,9 @@ See https://github.com/moham96/service.subtitles.opensubtitles_by_opensubtitles
 
 Changelog
 
+5.5.3 (2024-04-07)
+- Add possibility to choose the Kodi selected subtitle font
+
 5.5.2 (2023-12-02)
 - Some default settings were not applied if not changed first
 
